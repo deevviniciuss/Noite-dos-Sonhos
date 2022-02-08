@@ -1,0 +1,15 @@
+[11-Apr-2021 10:54:55 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[11-Apr-2021 10:54:55 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home2/noited76/public_html/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home2/noited76/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[13-Apr-2021 10:41:51 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[13-Apr-2021 10:41:51 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home2/noited76/public_html/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home2/noited76/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[14-Apr-2021 17:00:18 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[14-Apr-2021 17:00:18 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home2/noited76/public_html/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/noited76/public_html/wp-content/themes/twentyseventeen/functions.php on line 16

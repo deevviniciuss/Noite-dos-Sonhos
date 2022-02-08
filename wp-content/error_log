@@ -1,0 +1,35 @@
+[06-Dec-2020 16:39:15 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[06-Dec-2020 16:39:15 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/noited76/public_html/wp-content/teste.php:32
+Stack trace:
+#0 {main}
+  thrown in /home2/noited76/public_html/wp-content/teste.php on line 32
+[06-Dec-2020 16:39:59 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[06-Dec-2020 16:40:19 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[06-Dec-2020 16:40:19 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/noited76/public_html/wp-content/teste.php:33
+Stack trace:
+#0 {main}
+  thrown in /home2/noited76/public_html/wp-content/teste.php on line 33
+[06-Dec-2020 16:42:24 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[06-Dec-2020 16:42:24 America/Fortaleza] PHP Warning:  require(admin/config.php): failed to open stream: No such file or directory in /home2/noited76/public_html/wp-content/teste.php on line 1
+[06-Dec-2020 16:42:24 America/Fortaleza] PHP Warning:  require(admin/config.php): failed to open stream: No such file or directory in /home2/noited76/public_html/wp-content/teste.php on line 1
+[06-Dec-2020 16:42:24 America/Fortaleza] PHP Fatal error:  require(): Failed opening required 'admin/config.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home2/noited76/public_html/wp-content/teste.php on line 1
+[06-Dec-2020 17:35:20 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[06-Dec-2020 17:35:20 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function get_results() on null in /home2/noited76/public_html/wp-content/teste_sorteio.php:4
+Stack trace:
+#0 {main}
+  thrown in /home2/noited76/public_html/wp-content/teste_sorteio.php on line 4
+[06-Dec-2020 17:35:47 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[05-Jan-2021 01:41:40 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[08-Jan-2021 08:20:16 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[12-Jan-2021 12:59:39 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[14-Jan-2021 04:41:46 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[19-Jan-2021 15:36:50 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[22-Jan-2021 13:57:46 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[17-Feb-2021 08:13:07 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[12-Mar-2021 11:57:53 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[12-Mar-2021 15:16:02 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[15-Mar-2021 10:53:36 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[25-Mar-2021 12:51:13 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[26-Mar-2021 23:24:59 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[31-Mar-2021 18:55:05 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[08-Apr-2021 10:44:36 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
